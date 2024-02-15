@@ -1,0 +1,32 @@
+- title: STEM Summer Institute 2024
+  docs:
+  - home
+  - location
+  - people
+  - acknowledgements
+
+- title: Monday, August 5
+  docs:
+  - mon
+
+- title: Tuesday, August 6
+  docs:
+  - tues
+
+- title: Wednesday, August 7
+  docs:
+  - wed
+
+- title: Keynote Speakers
+  docs:
+  - keynote1
+  - keynote2
+
+- title: Exhibitors & Sponsors
+  docs:
+  - exhibitors
+  - sponsors
+
+- title: Surveys
+  docs:
+  - surveys
