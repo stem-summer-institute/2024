@@ -3,15 +3,18 @@ title: Exhibitors & Sponsors
 permalink: /docs/exhibitors_sponsors/
 ---
 
-Thank you to the exhibitors and sponsors for joining us and support STEM!  Make sure you visit the exhibitor tables to learn about their amazing resources, research, or services enhancing STEM education and integration. 
+Thank you to the exhibitors and sponsors for joining us and supporting STEM!  Make sure you visit the exhibitor tables to learn about their amazing resources, research, or services enhancing STEM education and integration. 
 
 ***
 
 ## Gold Sponsors
 
-Coming soon!
+### MSU Applied Quantum Core
 
-***
+[![MSU Applied Quantum Core](../images/quantum.png)](https://www.montana.edu/smrc/quantum/)
+
+Reserved for [MSU Applied Quantum Core](https://www.montana.edu/smrc/quantum/)
+
 ***
 
 ## Silver Sponsors
@@ -94,14 +97,6 @@ Reserved for Exhibitor
 ![MSU ATO](../wed/breakout7/images/ato.jpg)
 
 At [MSU Academic Technology and Outreach](https://ato.montana.edu/), we assist MSU in advancing excellence in teaching, learning, research and public engagement.
-
-***
-
-### MSU Applied Quantum Core
-
-![MSU Applied Quantum Core](../images/quantum.png)
-
-Reserved for [MSU Applied Quantum Core](https://www.montana.edu/smrc/quantum/)
 
 ***
 
