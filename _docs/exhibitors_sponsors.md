@@ -99,7 +99,9 @@ At [MSU Academic Technology and Outreach](https://ato.montana.edu/), we assist M
 
 ### MSU Applied Quantum Core
 
-Reserved for Exhibitor
+![MSU Applied Quantum Core](../images/quantum.png)
+
+Reserved for [MSU Applied Quantum Core](https://www.montana.edu/smrc/quantum/)
 
 ***
 
