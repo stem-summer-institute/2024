@@ -3,7 +3,10 @@ title: Evaluations
 permalink: /docs/evaluations/
 ---
 
-## Evaluations
+## Overall Conference Feedback
 
-- Overall Conference Feedback (coming soon)
-- Evaluation by Breakout Session (coming soon)
+Coming soon!
+
+## Evaluation by Breakout Session 
+
+Coming soon!
