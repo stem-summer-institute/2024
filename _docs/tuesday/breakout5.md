@@ -32,32 +32,32 @@ Tuesday, August 6, 2024
 <tbody>
   <tr>
     <td class="tg-c3ow">Rm. 1</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p1/">Econo-Quest: Exploring Global Economics & Careers in Montana</a><br>Gr. 6-12</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p1/">Econo-Quest: Exploring Global Economics & Careers in Montana</a><br>Gr. 6-12</td>
     <td class="tg-c3ow">Nikki Geiszler</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 2</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p2/">Productive Discussions to Support Students' Sense-making in STEM</a><br>Gr. 6-8</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p2/">Productive Discussions to Support Students' Sense-making in STEM</a><br>Gr. 6-8</td>
     <td class="tg-c3ow">Amy Kowalszyk</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 3</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p3/">Discover Museum of the Rockies</a><br>Gr. TBD</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p3/">Discover Museum of the Rockies</a><br>Gr. TBD</td>
     <td class="tg-c3ow">Shannon Werbeach</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 4</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p4/">Data Science 4 Everyone?</a><br>Gr. TBD</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p4/">Data Science 4 Everyone?</a><br>Gr. TBD</td>
     <td class="tg-c3ow">Lee?</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 5</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p5/">FOSS/School Specialty?</a><br>Gr. TBD</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p5/">FOSS/School Specialty?</a><br>Gr. TBD</td>
     <td class="tg-c3ow">TBD</td>
   </tr>
    <tr>
     <td class="tg-c3ow">Rm. 6</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p6/">TBD</a><br>Gr. TBD</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p6/">TBD</a><br>Gr. TBD</td>
     <td class="tg-c3ow">EXHIBITOR TBD</td>
   </tr>
 </tbody>

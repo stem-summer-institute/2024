@@ -5,19 +5,15 @@ permalink: /docs/industry/
 
 ## Panelists
 
-Here are our awesome panelists, check them out. Yada yada.
 
-### Name 1
+### Panelist 1
 
-picture
-Lorem ipsum dolor
+Coming soon!
 
-### Name 2
+### Panelist 2
 
-picture
-Lorem ipsum dolor
+Coming soon!
 
-### Name 3
+### Panelist 3
 
-picture
-Lorem ipsum dolor
+Coming soon!

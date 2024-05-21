@@ -32,32 +32,32 @@ Monday, August 5, 2024
 <tbody>
   <tr>
     <td class="tg-c3ow">Inspiration Hall</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b2p1/">Using Mini-Lessons to Teach the Crosscutting Concepts and Science and Engineering Practices</a><br>Gr. K-12</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b2p1/">Using Mini-Lessons to Teach the Crosscutting Concepts and Science and Engineering Practices</a><br>Gr. K-12</td>
     <td class="tg-c3ow">Paul Andersen</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 1</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b2p2/">What do you mean I’m Supposed to Teach Reading in Math and Science?</a><br>Gr. 6-12</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b2p2/">What do you mean I’m Supposed to Teach Reading in Math and Science?</a><br>Gr. 6-12</td>
     <td class="tg-c3ow">Genevieve Thomas</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 2</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b2p3/">Bee Inspired Innovation: The Buzz on Biomimicry in STEM</a><br>Gr. K-8</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b2p3/">Bee Inspired Innovation: The Buzz on Biomimicry in STEM</a><br>Gr. K-8</td>
     <td class="tg-c3ow">Michelle Lindbloom</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 3</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b2p4/">STEM Family Night</a><br>Gr. K-8</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b2p4/">STEM Family Night</a><br>Gr. K-8</td>
     <td class="tg-c3ow">Heather Jameson</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 4</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b2p5/">Integrating Indigenous Wisdom into K-12 Science Education</a><br>Gr. 6-12</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b2p5/">Integrating Indigenous Wisdom into K-12 Science Education</a><br>Gr. 6-12</td>
     <td class="tg-c3ow">Jennifer Stadum</td>
   </tr>
     <tr>
     <td class="tg-c3ow">Rm. 5</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b2p6/">Unleashing 3D Printing’s Superpower: Design Thinking & Spatial Reasonin</a><br>Gr. 3-12</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b2p6/">Unleashing 3D Printing’s Superpower: Design Thinking & Spatial Reasonin</a><br>Gr. 3-12</td>
     <td class="tg-c3ow">Steve Allison-Bunnel</td>
   </tr>
 </tbody>
