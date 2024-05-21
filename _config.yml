@@ -1,13 +1,13 @@
 # Site settings
 title: STEM Summer Institute 2024
-email: jchipps@mt-schools.org
+email: jochipps@gmail.com
 description: >
   Schedule for STEM Summer Institute 2024
 lang: en-US
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 baseurl: "/SSI24" # the subpath of your site, e.g. /blog/
-url:  https://stem-summer-institute.github.io/2024 # the base hostname & protocol for your site
-git_address: https://github.com/stem-summer-institute/2024
+url:  https://STEM-Summer-Institute.github.io/2024 # the base hostname & protocol for your site
+git_address: https://github.com/STEM-Summer-Institute/2024
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap

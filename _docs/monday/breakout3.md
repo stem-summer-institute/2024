@@ -5,7 +5,9 @@ permalink: /docs/breakout3/
 
 ## Time
 
-3:30PM - 5:00pM
+3:15PM - 4:45PM
+
+Monday, August 5, 2024
 
 ## Sessions
 
@@ -15,63 +17,48 @@ permalink: /docs/breakout3/
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-kftd{background-color:#efefef;text-align:left;vertical-align:top}
+.tg .tg-5w3z{background-color:#ecf4ff;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-34fe" colspan="2"><span style="font-weight:bold">PLAN</span></th>
-    <th class="tg-34fe" colspan="2"><span style="font-weight:bold">IMPLEMENT</span></th>
-    <th class="tg-34fe" colspan="2"><span style="font-weight:bold">REIMAGINE</span></th>
-    <th class="tg-zlqz" colspan="2">EXHIBITORS</th>
+    <th class="tg-5w3z"><span style="font-weight:bold">Room</span></th>
+    <th class="tg-5w3z"><span style="font-weight:bold">Session Title</span></th>
+    <th class="tg-5w3z"><span style="font-weight:bold">Speaker</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kftd">3:30PM - 4:15PM</td>
-    <td class="tg-kftd">4:15PM - 5:00PM</td>
-    <td class="tg-kftd">3:30PM - 4:15PM</td>
-    <td class="tg-kftd">4:15PM - 5:00PM</td>
-    <td class="tg-kftd">3:30PM - 4:15PM</td>
-    <td class="tg-kftd">4:15PM - 5:00PM</td>
-    <td class="tg-kftd">3:30PM - 4:15PM</td>
-    <td class="tg-kftd">4:15PM - 5:00PM</td>
+    <td class="tg-c3ow">Rm. 1</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b3p1/">Transforming Learning with Sphero Robots</a><br>Gr. K-8</td>
+    <td class="tg-c3ow">Jordan Capp</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3p1/">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 263</td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3p5/">plan5 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3i1/">implement1 title</a><br>speaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3r1/">reimagine1 title</a><br>speaker<br>place<br></td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3r5/">reimagine5 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3e1/">exhibition1 title</a><br>speaker<br>place<br></td>
+    <td class="tg-c3ow">Rm. 2</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b3p2/">Bridging Worlds: Circular Harmony & Hexagonal Wisdom</a><br>Gr. K-8</td>
+    <td class="tg-c3ow">Michelle Lindbloom</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3p2/">plan2 title</a><br>peaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3i2/">implement2 title</a><br>speaker<br>place<br></td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3i5/">implement5 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3r2/">reimagine2 title</a><br>speaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3e2/">exhibition2 title</a><br>speaker<br>place<br></td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3e5/">exhibition5 title</a><br>speaker<br>place</td>
+    <td class="tg-c3ow">Rm. 3</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b3p3/">Engaging Students in Montana Data!</a><br>Gr. K-12</td>
+    <td class="tg-c3ow">Michelle McCarthy</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3p3/">plan3 title</a><br>speaker<br>place</td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3p6/">plan6 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3i3/">implement3 title</a><br>speaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3r3/">reimagine3 title</a><br>speaker<br>place<br></td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3r6/">reimagine6 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3e3/">exhibition3 title</a><br>speaker<br>place<br></td>
+    <td class="tg-c3ow">Rm. 4</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b3p4/">Leveling your Field Trips: Integrating Geospatial Skills and Citizen Science</a><br>Gr. 3-12</td>
+    <td class="tg-c3ow">Jeannie Chipps</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3p4/">plan4 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3i4/">implement4 title</a><br>speaker<br>place</td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3i6/">implement6 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3r4/">reimagine4 title</a><br>speaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3e4/">exhibition4 title</a><br>speaker<br>place<br></td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3e6/">exhibition6 title</a><br>speaker<br>place</td>
+    <td class="tg-c3ow">Rm. 5</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b3p5/">Aquatic Macroinvertebrates: Indicators of Montana Stream Health</a><br>Gr. K-12</td>
+    <td class="tg-c3ow">Chris Pavlovich</td>
+  </tr>
+    <tr>
+    <td class="tg-c3ow">Rm. 6</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b3p6/">Stem-ulating Minds: Hands-On Projects for Ready-to-Use Success!</a><br>Gr. 3-8</td>
+    <td class="tg-c3ow">Shannon McIerney</td>
   </tr>
 </tbody>
 </table>
