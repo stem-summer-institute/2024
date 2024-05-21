@@ -29,8 +29,11 @@ Parking garage on 7th, behind Norm Asbjornson Hall
 ## Information About the Museum of the Rockies Reception
 
 STEM Summer Institute 
+
 MOR Welcome Reception 
+
 [Monday](../mon/), Aug. 5, 2024
+
 6PM - 8PM 
 
 [More information](../reception/) about parking and activies.
