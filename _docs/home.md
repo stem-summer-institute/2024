@@ -4,6 +4,8 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
+August 5 - 7, 2024
+
 |     |     |
 |------------------:|--------------------------------------|
 |          **Monday, August 5** | **8:30AM - 5:00PM**                         |

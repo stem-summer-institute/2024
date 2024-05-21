@@ -1,12 +1,7 @@
 ---
-title: Evaluations & Credits
-permalink: /docs/surveys/
+title: Credits
+permalink: /docs/credits/
 ---
-
-## Evaluations
-
-- Overall Conference Feedback (coming soon)
-- Evaluation by Breakout Session (coming soon)
  
 ## OPI Renewal Credits (16)
 
