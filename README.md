@@ -1,1 +1,1 @@
-[preview](https://jake-chipps.github.io/SSI24/)
+[preview](https://stem-summer-institute.github.io/2024/)
