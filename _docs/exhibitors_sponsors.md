@@ -89,6 +89,14 @@ Reserved for Exhibitor
 
 ***
 
+### MSU Academic Technology and Outreach
+
+![MSU ATO](../wed/breakout7/images/ato.jpg)
+
+At [MSU Academic Technology and Outreach](https://ato.montana.edu/), we assist MSU in advancing excellence in teaching, learning, research and public engagement.
+
+***
+
 ### MSU Applied Quantum Core
 
 Reserved for Exhibitor
