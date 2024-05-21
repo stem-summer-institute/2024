@@ -4,8 +4,6 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-[The official homepage of STEM Summer Institute](https://www.mt-schools.org/2024-stem-summer-institute.html)
-
 |     |     |
 |------------------:|--------------------------------------|
 |          **Monday, August 5** | **8:30AM - 5:00PM**                         |
