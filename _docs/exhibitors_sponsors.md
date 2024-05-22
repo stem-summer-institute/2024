@@ -97,6 +97,18 @@ Reserved for Exhibitor
 
 ***
 
+### Montana High Tech Business Alliance
+
+Reserved for Exhibitor
+
+***
+
+### Montana Jobs Network
+
+Reserved for Exhibitor
+
+***
+
 ### Montana NSF EPSCoR
 
 [![Montana NSF EPSCoR](../images/nsf_epscor.jpeg)](https://www.mtnsfepscor.org/research/projects)
