@@ -54,6 +54,20 @@ We work with educators who are implementing our [Activate Learning](https://acti
 
 ***
 
+### American Computer & Robotics Museum
+
+[![ACRM](../images/acrm.png)](https://acrmuseum.org/)
+
+Founded in May of 1990 in Bozeman, Montana by visionary collector George Keremedjiev, the American Computer & Robotics Museum inspires visitors of all ages to explore the past and imagine the future of the Information Age through thought-provoking exhibits, innovative storytelling, and the bold exchange of ideas.
+
+Our exhibits span 4,000 years of human history, from original cuneiform tablets to the first personal computers, and include topics such as Artificial Intelligence, Quantum Computing, the Space Race, Cracking the Enigma Code, and more.
+
+ACRM turned 30 in 2020, and we’re making plans to ensure that the next 30 years are even better!
+
+The American Computer & Robotics Museum has earned a Certificate of Excellence from TripAdvisor for six years running, and is rated  the #1 Thing to Do in Bozeman. Visit us, and you’ll see why distinguished Harvard scientist Edward O. Wilson described us as, “Inch for inch, the best museum in the world.”
+
+***
+
 ### Data Science 4 Everyone
 
 [![Data Science 4 Everyone](../images/data_science.png)](https://www.datascience4everyone.org/)
