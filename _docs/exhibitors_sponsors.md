@@ -78,7 +78,7 @@ Reserved for Exhibitor
 
 | Montana Afterschool Alliance | Montana STEM Ecosystem |
 | --- | --- |
-| [![MTAA](../images/mtaa.png)](https://www.mtafterschoolalliance.org/)  | [![MT STEM Ecosystem](https://www.mtafterschoolalliance.org/stem-ecosystem)] |
+| [![MTAA](../images/mtaa.png)](https://www.mtafterschoolalliance.org/)  | [![MT STEM Ecosystem](../images/mtstem.png)](https://www.mtafterschoolalliance.org/stem-ecosystem) |
 | The Montana Afterschool Alliance’s mission is to support and advocate for programs that strengthen communities, nurture youth, and ignite learning beyond the school day. We imagine a Montana where all youth feel safe, empowered, and connected. | The Montana STEM Ecosystem unites partners to expand STEM learning opportunities across the big sky.  Collaboratively, we aim to connect,  convene, and create a network of STEM learning pathways in all of our communities. |
 
 ***
