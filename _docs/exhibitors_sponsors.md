@@ -13,7 +13,7 @@ Thank you to the exhibitors and sponsors for joining us and supporting STEM!  Ma
 
 [![MSU Applied Quantum Core](../images/quantum.png)](https://www.montana.edu/smrc/quantum/)
 
-Reserved for [MSU Applied Quantum Core](https://www.montana.edu/smrc/quantum/)
+[Montana State University’s Applied Quantum CORE](https://www.montana.edu/smrc/quantum/) is support by the Air Force Research Laboratory to move advanced quantum technology applications from concept and testing to market. The program includes research, economic development, and education and workforce development, the latter of which is overseen by MSU’s Science Math Resource Center and includes programs that help youth, educators and community members learn about quantum concepts and the quantum industry while establishing and promoting career pathways, internships and new training and educational programs at all levels.
 
 ***
 
