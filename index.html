@@ -26,3 +26,57 @@ layout: default
     </div>
     <hr>
 </div>
+
+<style>
+    .table_component {
+        overflow: auto;
+        width: 100%;
+    }
+    
+    .table_component table {
+        border: 1px none #ffffff;
+        height: 100%;
+        width: 100%;
+        table-layout: auto;
+        border-collapse: collapse;
+        border-spacing: 1px;
+        text-align: center;
+    }
+    
+    .table_component caption {
+        caption-side: top;
+        text-align: center;
+    }
+    
+    .table_component th {
+        border: 1px none #ffffff;
+        background-color: #ffffff;
+        color: #000000;
+        padding: 5px;
+    }
+    
+    .table_component td {
+        border: 1px none #ffffff;
+        background-color: #ffffff;
+        color: #000000;
+        padding: 5px;
+    }
+    </style>
+    <div class="table_component" role="region" tabindex="0">
+    <table>
+        <caption>Hosted by</caption>
+        <thead>
+            <tr>
+                <th><img src="{{ "/assets/img/ssom.png" | relative_url }}" alt="SSoM" class="img-responsive"></th>
+                <th>Header 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>School Services of Montana</td>
+                <td>MSU Math Science Resource Center</td>
+            </tr>
+        </tbody>
+    </table>
+    <div style="margin-top:8px">Made with <a href="https://www.htmltables.io/" target="_blank">HTML Tables</a></div>
+    </div>
