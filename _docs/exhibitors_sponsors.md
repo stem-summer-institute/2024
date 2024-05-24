@@ -68,6 +68,18 @@ The American Computer & Robotics Museum has earned a Certificate of Excellence f
 
 ***
 
+## Code Girls United
+
+[![Code Girls United](../images/code_girls.jpg)](https://codegirlsunited.org/)
+
+Mission: To expand the future career opportunities of 4th – 8th grade girls through hands-on experiences in coding, technology, and business.
+
+Vision: That women play a key role in economic growth through the use of their technology and business skills.
+
+We provide an opportunity for girls to see if they like working with technology, and provide the opportunity to try it out. Girls, 4th – 8th grade, meet weekly after school throughout the year. The first half of the year involves learning the basics of Computer Science. The second half of the year, the girls split into teams, choose a service project, then complete a business case and then code their app. The girls then compete in local, country, and international competitions.
+
+***
+
 ### Data Science 4 Everyone
 
 [![Data Science 4 Everyone](../images/data_science.png)](https://www.datascience4everyone.org/)
