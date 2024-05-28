@@ -57,8 +57,8 @@ Tuesday, August 6, 2024
   </tr>
    <tr>
     <td class="tg-c3ow">Rm. 6</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b4p6/">TBD</a><br>Gr. TBD</td>
-    <td class="tg-c3ow">EXHIBITOR TBD</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b4p6/">Hot Montana Jobs: Empowering Educators and Students with Tech Career Pathways</a><br>Gr. 6-12</td>
+    <td class="tg-c3ow">TBD</td>
   </tr>
 </tbody>
 </table>
