@@ -97,7 +97,7 @@ Reserved for Exhibitor
 
 ### Friends of the Gallatin National Forest Avalanche Center
 
-[![Friends of the Gallatin National Forest Avalanche Center](../images/avalanche.jpg)]
+[![Friends of the Gallatin National Forest Avalanche Center](../images/avalanche.jpg)](https://www.mtavalanche.com/)
 
 Our mission is to provide quality and free avalanche safety education to the greater Gallatin community and all backcountry users in southwest Montana, and to support the Gallatin National Forest Avalanche Center. Together, our programs reach over 5000 people a year (including grades 1–12, collegiate, ski and snowmobile clubs, search and rescue groups, and ski patrol), and GNFAC’s avalanche advisories reach over 4500 people daily.
 
