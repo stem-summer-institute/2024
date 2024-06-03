@@ -47,8 +47,8 @@ Tuesday, August 6, 2024
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 4</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p4/">Data Science 4 Everyone?</a><br>Gr. TBD</td>
-    <td class="tg-c3ow">Lee?</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p4/">Data Science: What is it and How do I Intergrate it into my Existing Curriculum?</a><br>Gr. 6-12</td>
+    <td class="tg-c3ow">LeeEllen Harmer</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 5</td>

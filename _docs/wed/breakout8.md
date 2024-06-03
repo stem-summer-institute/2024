@@ -37,8 +37,8 @@ Wednesday, August 7, 2024
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 2</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p2/">TBD (Smart Fires)</a><br>Gr. TBD</td>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p2/">SMART FIRES</a><br>Gr. K-12</td>
+    <td class="tg-c3ow">Suzi Taylor</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 3</td>
