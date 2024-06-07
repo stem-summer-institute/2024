@@ -91,7 +91,11 @@ We provide an opportunity for girls to see if they like working with technology,
 
 ### FOSS
 
-Reserved for Exhibitor
+[![FOSS](../images/foss.jpg)](https://fossnextgeneration.com/events/)
+
+Science education is a constantly changing field. FOSS professional development opportunities help educators stay on top of the latest topics, techniques, and technology affecting today’s science instruction.
+
+Our FOSS team is here to guide you and transform science classes by providing unmatched support for educators. [Learn more](https://fossnextgeneration.com/events/) about the learning opportunities FOSS has to offer and register today!
 
 ***
 
