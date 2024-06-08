@@ -69,6 +69,22 @@ The American Computer & Robotics Museum has earned a Certificate of Excellence f
 
 ***
 
+## American Prairie
+
+[![American Prairie](../images/american_prairie.png)](https://americanprairie.org/)
+
+American Prairie is creating one of the largest nature reserves in the United States. This will serve as a refuge for people and wildlife, forever.
+
+The American Prairie Field School is getting kids outside and into nature. The program uses the prairie as a living laboratory to inspire the next generation of scientists, conservationists, and stewards of the land and our planet. 
+
+The American Prairie Field School is creating early and enduring connections to Montana's prairie ecosystem.
+
+The Field School comprises education programs for grades K through 12, with overnight or day programs available depending on grade. The STEM curriculum, developed in partnership with the Montana Outdoor Science School (MOSS), connects students with experts and research scientists from Smithsonian Institute and American Prairie. Subjects vary and include natural and human history, astronomy, plant biology, wildlife ecology, and geology. All programs will align with NGSS Next Generation Science Standards.
+
+For more information and to register, contact Education Coordinator Dusty Rixford: <dusty@americanprairie.org>
+
+***
+
 ## Code Girls United
 
 [![Code Girls United](../images/code_girls.jpg)](https://codegirlsunited.org/)
