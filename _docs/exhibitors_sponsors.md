@@ -132,15 +132,12 @@ Our mission is to provide quality and free avalanche safety education to the gre
 
 ***
 
-### Montana High Tech Business Alliance
+### Montana High Tech Business Alliance/Montana Jobs Network
 
-Reserved for Exhibitor
-
-***
-
-### Montana Jobs Network
-
-Reserved for Exhibitor
+|  Montana High Tech Business Alliance  |  Montana Jobs Network  |
+|  ---  |  ---  |
+|  Logo coming soon!  |  Logo coming soon!  |
+|  Coming soon!  |  Coming soon!  |
 
 ***
 
