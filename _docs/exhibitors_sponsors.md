@@ -136,7 +136,7 @@ Our mission is to provide quality and free avalanche safety education to the gre
 
 |  Montana High Tech Business Alliance  |  Montana Jobs Network  |
 |  ---  |  ---  |
-|  Logo coming soon!  |  Logo coming soon!  |
+|  [Logo coming soon!](https://www.mthightech.org/)  |  [Logo coming soon!](https://www.mthightech.org/montana-jobs-network)  |
 |  Coming soon!  |  Coming soon!  |
 
 ***
