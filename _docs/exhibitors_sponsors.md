@@ -155,7 +155,7 @@ NSF EPSCoR was established in 1978, and in 1980 Montana was one of five initial 
 
 [![Montana Robotics Alliance](../images/mtra.png)](https://www.mtroboticsalliance.org/)
 
-Reserved for [Exhibitor](https://www.mtroboticsalliance.org/)
+Learn more about [Montana Robotics Alliance](https://www.mtroboticsalliance.org/)
 
 ***
 
