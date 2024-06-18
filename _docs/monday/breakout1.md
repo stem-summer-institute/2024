@@ -55,10 +55,5 @@ Monday, August 5, 2024
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b1p5/">AI in Action: Inspiring Montana’s Next Generation of STEM Innovators</a><br>Gr. 3-12</td>
     <td class="tg-c3ow">Nick Lux</td>
   </tr>
-    <tr>
-    <td class="tg-c3ow">Rm. TBD</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b1p6/">Save for NSF Presenter</a><br>Gr. TBD</td>
-    <td class="tg-c3ow">TBD</td>
-  </tr>
 </tbody>
 </table>

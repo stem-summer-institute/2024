@@ -12,4 +12,4 @@ permalink: /docs/wed/
 | 9:30AM - 10:15AM |   [Breakout Session 8](../breakout8/)                |
 |  10:15AM - 10:30AM  |  Break |
 |  10:30AM - 11:15AM | [Breakout Session 9](../breakout9/)
-|  11:15AM - 12:00PM | [Closing Session](../surveys/)     |
+|  11:15AM - 12:00PM | [Closing Session Speaker: Dr. Alex Isern](../keynote3/)     |
