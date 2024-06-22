@@ -51,7 +51,7 @@ Tuesday, August 6, 2024
     <td class="tg-c3ow">LeeEllen Harmer</td>
   </tr>
     <tr>
-    <td class="tg-c3ow">Rm. 4</td>
+    <td class="tg-c3ow">Rm. 5</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p5/">FIRST Robotics: Revolutionizing STEM Education</a><br>Gr. K-8</td>
     <td class="tg-c3ow">Jordan Capp</td>
    </tr>
