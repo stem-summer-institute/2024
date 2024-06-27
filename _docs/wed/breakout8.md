@@ -31,27 +31,27 @@ Wednesday, August 7, 2024
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">Rm. 1</td>
+    <td class="tg-c3ow">Rm. 329</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p1/">Student-guided Lesson Feedback</a><br>Gr. K-12</td>
     <td class="tg-c3ow">Elaine Westbrook</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Rm. 2</td>
+    <td class="tg-c3ow">Rm. 337</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p2/">SMART FIRES</a><br>Gr. K-12</td>
     <td class="tg-c3ow">Suzi Taylor</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Rm. 3</td>
+    <td class="tg-c3ow">Rm. 153</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p3/">P3 Phun Phone Physics part 2</a><br>Gr. 5-12</td>
     <td class="tg-c3ow">David McDonald</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Rm. 4</td>
+    <td class="tg-c3ow">Rm. 325</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p4/">Mathematics Modeling for Sustainability</a><br>Gr. K-8</td>
     <td class="tg-c3ow">Fenqjen Loo</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Rm. 5</td>
+    <td class="tg-c3ow">Rm. 149</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p5/">Code Girls United</a><br>Gr. 3-8</td>
     <td class="tg-c3ow">Kathy Eckhart</td>
   </tr>
