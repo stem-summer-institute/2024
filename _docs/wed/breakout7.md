@@ -40,15 +40,15 @@ Wednesday, August 7, 2024
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b7p3/">P3 Phun Phone Physics part 1</a><br>Gr. 5-12</td>
     <td class="tg-c3ow">David McDonald</td>
   </tr>
-  <tr>
+    <tr>
     <td class="tg-c3ow">Rm. 329</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b7p2/">Research Experience for Teachers in Engineering (RET)</a><br>Gr. K-12</td>
-    <td class="tg-c3ow">Suzi Taylor</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b7p4/">Creative Coding with PBS KIDS:Scratch Jr.</a><br>Gr. K-2</td>
+    <td class="tg-c3ow">Nikki Vradenburg</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 337</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b7p4/">Creative Coding with PBS KIDS:Scratch Jr.</a><br>Gr. K-2</td>
-    <td class="tg-c3ow">Nikki Vradenburg</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b7p2/">Research Experience for Teachers in Engineering (RET)</a><br>Gr. K-12</td>
+    <td class="tg-c3ow">Suzi Taylor</td>
   </tr>
 </tbody>
 </table>
