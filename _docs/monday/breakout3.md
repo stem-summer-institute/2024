@@ -35,10 +35,15 @@ Monday, August 5, 2024
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b3p1/">Transforming Learning with Sphero Robots</a><br>Gr. K-8</td>
     <td class="tg-c3ow">Jordan Capp</td>
   </tr>
-  <tr>
-    <td class="tg-c3ow">Rm. 337</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b3p2/">Bridging Worlds: Circular Harmony & Hexagonal Wisdom</a><br>Gr. K-8</td>
-    <td class="tg-c3ow">Michelle Lindbloom</td>
+      <tr>
+    <td class="tg-c3ow">Rm. 149</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b3p6/">Stem-ulating Minds: Hands-On Projects for Ready-to-Use Success!</a><br>Gr. 3-8</td>
+    <td class="tg-c3ow">Shannon McIerney</td>
+  </tr>
+    <tr>
+    <td class="tg-c3ow">Rm. 220</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b3p5/">Aquatic Macroinvertebrates: Indicators of Montana Stream Health</a><br>Gr. K-12</td>
+    <td class="tg-c3ow">Chris Pavlovich</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 321</td>
@@ -50,15 +55,10 @@ Monday, August 5, 2024
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b3p4/">Leveling your Field Trips: Integrating Geospatial Skills and Citizen Science</a><br>Gr. 3-12</td>
     <td class="tg-c3ow">Jeannie Chipps</td>
   </tr>
-  <tr>
-    <td class="tg-c3ow">Rm. 220</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b3p5/">Aquatic Macroinvertebrates: Indicators of Montana Stream Health</a><br>Gr. K-12</td>
-    <td class="tg-c3ow">Chris Pavlovich</td>
-  </tr>
     <tr>
-    <td class="tg-c3ow">Rm. 149</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b3p6/">Stem-ulating Minds: Hands-On Projects for Ready-to-Use Success!</a><br>Gr. 3-8</td>
-    <td class="tg-c3ow">Shannon McIerney</td>
+    <td class="tg-c3ow">Rm. 337</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b3p2/">Bridging Worlds: Circular Harmony & Hexagonal Wisdom</a><br>Gr. K-8</td>
+    <td class="tg-c3ow">Michelle Lindbloom</td>
   </tr>
 </tbody>
 </table>

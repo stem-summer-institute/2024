@@ -40,15 +40,15 @@ Tuesday, August 6, 2024
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b4p2/">The Fusion of Science and Language through Smithsonian Science for the Classroom</a><br>Gr. K-5</td>
     <td class="tg-c3ow">Wendy Pierce</td>
   </tr>
+    <tr>
+    <td class="tg-c3ow">Rm. 153</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b4p4/">Sensemaking Strategies in the Science Classroom-FOSS/SS</a><br>Gr. K-8</td>
+    <td class="tg-c3ow">Jennifer Slavick</td>
+  </tr>
   <tr>
     <td class="tg-c3ow">Rm. 321</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b4p3/">Avalanches in the Classroom</a><br>Gr. 6-12</td>
     <td class="tg-c3ow">Shannon Regan</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Rm. 153</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b4p4/">Sensemaking Strategies in the Science Classroom-FOSS/SS</a><br>Gr. K-8</td>
-    <td class="tg-c3ow">Jennifer Slavick</td>
   </tr>
    <tr>
     <td class="tg-c3ow">Rm. 329</td>

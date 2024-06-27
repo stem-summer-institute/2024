@@ -31,14 +31,14 @@ Tuesday, August 6, 2024
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">Rm. 153</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p1/">Econo-Quest: Exploring Global Economics & Careers in Montana</a><br>Gr. 6-12</td>
-    <td class="tg-c3ow">Nikki Geiszler</td>
-  </tr>
-  <tr>
     <td class="tg-c3ow">Rm. 149</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p2/">Productive Discussions to Support Students' Sense-making in STEM</a><br>Gr. 6-8</td>
     <td class="tg-c3ow">Amy Kowalszyk</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Rm. 153</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p1/">Econo-Quest: Exploring Global Economics & Careers in Montana</a><br>Gr. 6-12</td>
+    <td class="tg-c3ow">Nikki Geiszler</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 321</td>
@@ -50,15 +50,15 @@ Tuesday, August 6, 2024
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p4/">Data Science: What is it and How do I Intergrate it into my Existing Curriculum?</a><br>Gr. 6-12</td>
     <td class="tg-c3ow">LeeEllen Harmer</td>
   </tr>
+     <tr>
+    <td class="tg-c3ow">Rm. 329</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p6/">Computing Across the Curriculum</a><br>Gr. 3-12</td>
+    <td class="tg-c3ow">Jake Chipps</td>
+  </tr>
     <tr>
     <td class="tg-c3ow">Rm. 337</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p5/">FIRST Robotics: Revolutionizing STEM Education</a><br>Gr. K-8</td>
     <td class="tg-c3ow">Jordan Capp</td>
    </tr>
-   <tr>
-    <td class="tg-c3ow">Rm. 329</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p6/">Computing Across the Curriculum</a><br>Gr. 3-12</td>
-    <td class="tg-c3ow">Jake Chipps</td>
-  </tr>
 </tbody>
 </table>
