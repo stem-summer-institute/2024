@@ -52,7 +52,7 @@ Monday, August 5, 2024
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 325</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b3p4/">Leveling your Field Trips: Integrating Geospatial Skills and Citizen Science</a><br>Gr. 3-12</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b3p4/">Leveling Up Your Field Trips: Integrating Geospatial Skills and Citizen Science</a><br>Gr. 3-12</td>
     <td class="tg-c3ow">Jeannie Chipps</td>
   </tr>
     <tr>
