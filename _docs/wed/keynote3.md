@@ -3,7 +3,9 @@ title: Dr. Alex Isern
 permalink: /docs/keynote3/
 ---
 
-![Alexandra Isern](../images/isern.jpg)
+|     |     |
+| --- | --- |
+|  ![Alexandra Isern](../images/isern.jpg) |   ![NSF Logo](../images/nsf.png) |
 
 Dr. Alexandra Isern (pronounced “ice-earn”) is currently the Assistant Director for Geosciences at the
 National Science Foundation (NSF). Previously she was Head of the Antarctic Sciences Section in NSF’s
