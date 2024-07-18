@@ -43,7 +43,7 @@ Monday, August 5, 2024
     <tr>
     <td class="tg-c3ow">Rm. 153</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b1p3/">Eco-Schools US: A New & Sustainable Path Forward</a><br>Gr. 6-12</td>
-    <td class="tg-c3ow">Naomi Alhadeff</td>
+    <td class="tg-c3ow">Eliza Lindley</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 321</td>
