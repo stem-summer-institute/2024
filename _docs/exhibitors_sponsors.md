@@ -183,9 +183,11 @@ At [MSU Academic Technology and Outreach](https://ato.montana.edu/), we assist M
 
 ***
 
-### National Geographic
+### National Geographic / Cengage
 
-Coming soon!
+![National Geographic and Cengage](../images/nat_geo.png)
+
+Our goal is to Inspire students and support teachers to achieve better outcomes though curiosity, belonging, quality, and ease of use. Our focus is to ensure student success beyond high school – in college or career. Our partnerships with National Geographic Society and Big Ideas Learning ensures that we are setting students up for success in both their academic and professional careers.
 
 ***
 
@@ -198,3 +200,5 @@ Coming soon!
 ### SpectrUM
 
 ![SpectrUM](../images/spectrum.jpeg)
+
+Coming soon!
