@@ -3,6 +3,10 @@ title: Industry Panel
 permalink: /docs/industry/
 ---
 
+## Location
+
+Inspiration Hall
+
 ## Panelists
 
 
