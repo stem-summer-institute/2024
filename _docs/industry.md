@@ -6,14 +6,14 @@ permalink: /docs/industry/
 ## Panelists
 
 
-### Panelist 1
+### Heidi Kessler - Synesis 7
 
 Coming soon!
 
-### Panelist 2
+### Jason Yager - Montana Photonics and Quantum Alliance
 
-Coming soon!
+![Jason Yager](../images/yager.jpeg)
 
-### Panelist 3
+### Jenni West - Montana Manufacturing Extension Center
 
 Coming soon!
