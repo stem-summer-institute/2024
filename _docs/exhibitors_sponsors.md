@@ -191,12 +191,6 @@ Our goal is to Inspire students and support teachers to achieve better outcomes 
 
 ***
 
-### Starbase
-
-Coming soon!
-
-***
-
 ### SpectrUM
 
 ![SpectrUM](../images/spectrum.jpeg)
