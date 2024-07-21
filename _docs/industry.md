@@ -23,4 +23,10 @@ Jason Yager is an experienced leader with a background in industry, academia, an
 
 ### Jenni West - Montana Manufacturing Extension Center
 
-Coming soon!
+![Jenni West](../images/west.jpg)
+
+Jenni West serves as Associate Director for the Montana Manufacturing Extension Center, with key responsibilities for marketing and center operations. She also leads the center's cybersecurity service for manufacturers.
+
+Jenni has over 29 years of experience in both the public sector and private industry. Her previous roles include management of a USDOT-funded transportation technical assistance center for federal lands, leadership of a joint aerospace workforce development program for Gulfstream Aerospace and Savannah Technical College, international import/export and transportation logistics management for UK-based Ulster Carpets, and economic development in Georgia. Jenni holds a M.A. degree from the University of Kansas and a B.A. from Western Carolina University in North Carolina.  She speaks Spanish and German, and has lived and worked abroad in Europe and Latin America.
+
+Jenni is a member of the MEP National Network working group on cybersecurity and of the Montana District Export Council.
