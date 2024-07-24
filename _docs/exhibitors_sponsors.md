@@ -65,7 +65,7 @@ Our exhibits span 4,000 years of human history, from original cuneiform tablets 
 
 ACRM turned 30 in 2020, and we’re making plans to ensure that the next 30 years are even better!
 
-The American Computer & Robotics Museum has earned a Certificate of Excellence from TripAdvisor for six years running, and is rated  the #1 Thing to Do in Bozeman. Visit us, and you’ll see why distinguished Harvard scientist Edward O. Wilson described us as, “Inch for inch, the best museum in the world.”
+The American Computer & Robotics Museum has earned a Certificate of Excellence from TripAdvisor for six years running, and is rated the #1 Thing to Do in Bozeman. Visit us, and you’ll see why distinguished Harvard scientist Edward O. Wilson described us as, “Inch for inch, the best museum in the world.”
 
 ***
 
