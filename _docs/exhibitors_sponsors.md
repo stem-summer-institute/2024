@@ -123,6 +123,16 @@ Our mission is to provide quality and free avalanche safety education to the gre
 
 ***
 
+### High Country Technology Consultants
+
+[![High Country Technology Consultants](../images/high_country.png)](hctcinc.com)
+
+High Country Technology Consultants is a leading provider of technology and curriculum for STEM and CTE programs. We are dedicated to equipping schools with the tools and resources necessary to provide incredible STEM learning experiences for students and teachers.
+
+Our team of experts is committed to delivering high-quality products, curriculum, training, and services that empower our customers to succeed. Trust High Country Technology Consultants to be your partner as we are the company that shows up.
+
+***
+
 ### Montana Afterschool Alliance/Montana STEM Ecosystem
 
 | Montana Afterschool Alliance | Montana STEM Ecosystem |
