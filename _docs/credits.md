@@ -26,7 +26,7 @@ In lieu of OPI Renewal Credits, earn 1 Non-Degree graduate credit from Montana S
 - Create a presentation to share the highlights of what you learned throughout the conference with your colleagues or administrator; 
 - Write a brief summary of each session you attended, along with how you may apply what you learned to enhance STEM teaching and learning; or
 - Create an infographic or one-page info flyer that outlines a STEM concept or practice you learned.
-- Submit completed assignment to Melissa Tovaas: mtovaas@mt-schools.org.
+- Submit completed assignment to Melissa Tovaas: <mtovaas@mt-schools.org>.
 
 
 
