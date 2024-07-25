@@ -13,7 +13,7 @@ Day 2: 6 OPI Renewal Credits
 
 Day 3: 4 OPI Renewal Credits
 
-Bonus: Earn 1 additional OPI Renewal Credit for visiting exhibitors.  Pick up an Exhibitor Passport at the check-in table and get a signature or stamp from exhibitors.  To earn 1 OPI Renewal Credit, you will need to visit 12 exhibitors or more. 
+**Bonus**: Earn 1 additional OPI Renewal Credit for visiting exhibitors.  Pick up an Exhibitor Passport at the check-in table and get a signature or stamp from exhibitors.  To earn 1 OPI Renewal Credit, you will need to visit 12 exhibitors or more. 
  
 ## MSU Non-Degree Grad Credit (1) 
 
