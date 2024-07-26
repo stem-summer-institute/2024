@@ -10,7 +10,7 @@ Inspiration Hall
 ## Panelists
 
 
-### Chessy Kessler - Safe Space Inc.
+### Chessy Kessler - Safe Space Inc. / Synesis 7
 
 ![Chessy Kessler](../images/kessler.jpeg)
 
