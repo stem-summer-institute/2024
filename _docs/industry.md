@@ -10,9 +10,13 @@ Inspiration Hall
 ## Panelists
 
 
-### Heidi Kessler - Synesis 7
+### Chessy Kessler - Safe Space Inc.
 
-Coming soon!
+![Chessy Kessler](../images/kessler.jpeg)
+
+Winchester Kessler is the Assistant Director of Safe Space Inc., a nonprofit organization serving Domestic Violence and Sexual Assault Victims. Winchester has 10 years experience is various STEM fields, focusing mostly on information technology and exercise science.
+
+Winchester previously worked for Synesis7, a company serving government, defense, aerospace, medical/healthcare, utilities, energy, and other industries by providing a highly automated system and process for converting complex source materials into S1000D compliant XML, working as a data conversion specialist. While not currently in a STEM field, Winchester uses her past experience to further improve the information technology, confidential and secure databasing, client file development, security system management/maintenance, statical analysis of demographic information and wireless security, as part of her job requirements at Safe Space, while attending college full time studying Kinesiology, the scientific study of human movement and exercise, also known as human kinetics,  proving that STEM has a place everywhere.
 
 ### Jason Yager - Montana Photonics and Quantum Alliance
 
