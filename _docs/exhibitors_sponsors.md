@@ -205,4 +205,4 @@ Our goal is to Inspire students and support teachers to achieve better outcomes 
 
 ![SpectrUM](../images/spectrum.jpeg)
 
-Coming soon!
+The University of Montana spectrUM Discovery Area is Missoula's hands-on science center dedicated to igniting passion for discovery through science. Located within the Missoula Public Library with several other community organization partners, spectrUM engages with over 200,000 visitors annually in our museum and at our diverse array of outreach programs across Montana. Between field trips, camps, outreach events big and small as well as teacher professional development workshops and exhibition design that leverages faculty input from the University of Montana, spectrUM is a small museum with an outsized impact.
