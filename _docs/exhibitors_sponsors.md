@@ -146,8 +146,8 @@ Our team of experts is committed to delivering high-quality products, curriculum
 
 |  Montana High Tech Business Alliance  |  Montana Jobs Network  |
 |  ---  |  ---  |
-|  [![[MT High Tech Business Alliance](../images/mthightech.png)](https://www.mthightech.org/)]  |  [Logo coming soon!](https://www.mthightech.org/montana-jobs-network)  |
-|  Launched in 2014, the Montana High Tech Business Alliance is a nonpartisan nonprofit association of more than 200 high tech and manufacturing companies and affiliates creating high-paying jobs in Montana. We are affiliated with the 501(c)3 nonprofit Montana Jobs Network whose mission is to empower Montanans to launch high-growth careers. Learn more at [mthightech.org](mthightech.org)  |  Coming soon!  |
+|  [![[MT High Tech Business Alliance](../images/mthightech.png)]](https://www.mthightech.org/)  |  [Logo coming soon!](https://www.mthightech.org/montana-jobs-network)  |
+|  Launched in 2014, the Montana High Tech Business Alliance is a nonpartisan nonprofit association of more than 200 high tech and manufacturing companies and affiliates creating high-paying jobs in Montana. We are affiliated with the 501(c)3 nonprofit Montana Jobs Network whose mission is to empower Montanans to launch high-growth careers. Learn more at [mthightech.org](https://www.mthightech.org)  |  Coming soon!  |
 
 ***
 
