@@ -41,11 +41,6 @@ Tuesday, August 6, 2024
     <td class="tg-c3ow">Nikki Geiszler</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Rm. 321</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p3/">Discover Museum of the Rockies</a><br>Gr. TBD</td>
-    <td class="tg-c3ow">Shannon Werbeach</td>
-  </tr>
-  <tr>
     <td class="tg-c3ow">Rm. 325</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p4/">Data Science: What is it and How do I Intergrate it into my Existing Curriculum?</a><br>Gr. 6-12</td>
     <td class="tg-c3ow">Lee Ellen Harmer</td>
