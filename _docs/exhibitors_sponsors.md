@@ -169,6 +169,14 @@ Learn more about [Montana Robotics Alliance](https://www.mtroboticsalliance.org/
 
 ***
 
+### Montana World Affairs Council
+
+[![Montana World Affairs Council](../images/montana_council.jpeg)](https://www.montanaworldaffairs.org/)
+
+The Montana Council was established in the year 2000 by Ambassador Mark Johnson (retired), a fourth-generation Montanan from Great Falls, with a simple goal — to provide fellow Montanans with greater opportunities for understanding global affairs and the world around us. He hoped that through exposure to global programming and international experts, all Montanans would gain greater insight into how the world impacts each of us, regardless of where we live or what we do, and that each of us can have an impact and effect change locally and also on a global scale. Ambassador Johnson wanted to bring the world to Montana and Montana to the world.
+
+***
+
 ### MSU Academic Technology and Outreach
 
 [![MSU ATO](../wed/breakout7/images/ato.jpg)](https://ato.montana.edu)
