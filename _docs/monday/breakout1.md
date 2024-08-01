@@ -50,6 +50,11 @@ Monday, August 5, 2024
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b1p2/">NASA Lift Off-A Teacher PD Opportunity at Johnson Space Center</a><br>Gr. 6-12</td>
     <td class="tg-c3ow">Anna Gomez-Morris</td>
   </tr>
+    <tr>
+    <td class="tg-c3ow">Rm. 321</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b5p3/">Museum of the Rockies Presents...</a><br>Gr. K-12</td>
+    <td class="tg-c3ow">Shannon Werbeach</td>
+  </tr>
   <tr>
     <td class="tg-c3ow">Rm. 337</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b1p4/">We are the Explorers! Bringing Together NASAs STEM Graphic Novels, Robotics and Moon Exploration</a><br>Gr. 3-8</td>
