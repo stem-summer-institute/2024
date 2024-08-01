@@ -32,7 +32,7 @@ Wednesday, August 7, 2024
 <tbody>
   <tr>
     <td class="tg-c3ow">Rm. 149</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p5/">Code Girls United</a><br>Gr. 3-8</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p5/">Code Girls United - Free Afterschool Computer Science and Coding Program</a><br>Gr. 3-8</td>
     <td class="tg-c3ow">Kathy Eckhart</td>
   </tr>
     <tr>
