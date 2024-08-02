@@ -32,7 +32,7 @@ Wednesday, August 7, 2024
 <tbody>
   <tr>
     <td class="tg-c3ow">Rm. 149</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b9p4/">Building and Reinforcing Community-School Relationship through Student Blogging</a><br>Gr. K-8</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b9p4/">Building and Reinforcing Community-School Relationships through Student Blogging</a><br>Gr. K-8</td>
     <td class="tg-c3ow">Jacquelyn Southerland</td>
   </tr>
   <tr>

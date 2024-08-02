@@ -37,7 +37,7 @@ Tuesday, August 6, 2024
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 153</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b6p1/">Student Lead Science Lessons</a><br>Gr. K-5</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b6p1/">Student Led Science Lessons</a><br>Gr. K-5</td>
     <td class="tg-c3ow">Jordan Capp</td>
   </tr>
     <tr>

@@ -7,6 +7,6 @@ permalink: /docs/evaluations/
 
 Coming soon!
 
-## Evaluation by Breakout Session 
+## Evaluation for Breakout Sessions
 
-Coming soon!
+[Evaluation Form for Breakout Sessions](https://docs.google.com/forms/d/e/1FAIpQLSezXx3CkZOyz5qRGlwoDN43VHKiz-JI61mutVa8azseDSpPUg/viewform?usp=sf_link)
