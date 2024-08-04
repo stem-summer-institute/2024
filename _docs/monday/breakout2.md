@@ -40,11 +40,6 @@ Monday, August 5, 2024
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b2p4/">STEM Family Engagement</a><br>Gr. K-8</td>
     <td class="tg-c3ow">Heather Jameson</td>
   </tr>
-    <tr>
-    <td class="tg-c3ow">Rm. 153</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b2p5/">Integrating Indigenous Wisdom into K-12 Science Education</a><br>Gr. 6-12</td>
-    <td class="tg-c3ow">Jennifer Stadum</td>
-  </tr>
   <tr>
     <td class="tg-c3ow">Rm. 321</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b2p2/">What do you mean I’m Supposed to Teach Reading in Math and Science?</a><br>Gr. 6-12</td>
