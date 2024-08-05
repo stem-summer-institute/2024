@@ -34,3 +34,9 @@ Jenni West serves as Associate Director for the Montana Manufacturing Extension 
 Jenni has over 29 years of experience in both the public sector and private industry. Her previous roles include management of a USDOT-funded transportation technical assistance center for federal lands, leadership of a joint aerospace workforce development program for Gulfstream Aerospace and Savannah Technical College, international import/export and transportation logistics management for UK-based Ulster Carpets, and economic development in Georgia. Jenni holds a M.A. degree from the University of Kansas and a B.A. from Western Carolina University in North Carolina.  She speaks Spanish and German, and has lived and worked abroad in Europe and Latin America.
 
 Jenni is a member of the MEP National Network working group on cybersecurity and of the Montana District Export Council.
+
+### Paul Nugent
+
+![Paul Nugent](../images/nugent.jpg)
+
+Dr. Paul Winston Nugent is a Research Professor at the Montana State University (MSU) College of Agriculture. He has been working since 2022 to establish a teaching and research program in precision agriculture. On August 15, 2024, he will assume the role of the Elizabeth & Whitney MacMillan Endowed Chair of Precision Agriculture at MSU. He earned his Ph.D. in Engineering from MSU in 2016, specializing in optical remote sensing and data analysis. He co-founded NWB Sensors Inc. in 2009, a Montana technology business that develops environmental sensing systems. Here, he has received support from small business innovation grants, including the USDA Small Business Innovative Research program. With a background rooted in his family's farm in Fairfield, Montana, Dr. Nugent's research at MSU integrates on-farm and remote sensing with big data and machine learning to address agricultural challenges such as soil acidification, water use efficiency, and crop quality.
