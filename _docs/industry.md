@@ -18,12 +18,15 @@ Winchester Kessler is the Assistant Director of Safe Space Inc., a nonprofit org
 
 Winchester previously worked for Synesis7, a company serving government, defense, aerospace, medical/healthcare, utilities, energy, and other industries by providing a highly automated system and process for converting complex source materials into S1000D compliant XML, working as a data conversion specialist. While not currently in a STEM field, Winchester uses her past experience to further improve the information technology, confidential and secure databasing, client file development, security system management/maintenance, statical analysis of demographic information and wireless security, as part of her job requirements at Safe Space, while attending college full time studying Kinesiology, the scientific study of human movement and exercise, also known as human kinetics,  proving that STEM has a place everywhere.
 
-### Jason Yager - Montana Photonics and Quantum Alliance
+***
 
+### Paul Nugent - Montana State University
 
-![Jason Yager](../images/yager.jpeg)
+![Paul Nugent](../images/nugent.jpg)
 
-Jason Yager is an experienced leader with a background in industry, academia, and nonprofits. He earned a Master's degree in Physics from Montana State University. Currently, he serves as the executive director of the Montana Photonics & Quantum Alliance, which is dedicated to advancing the Photonics and Quantum Ecosystem in Montana. With 30 years of experience in Montana's photonics community, Jason is actively involved in several boards, including the Montana Headwaters Tech Hub steering committee.
+Dr. Paul Winston Nugent is a Research Professor at the Montana State University (MSU) College of Agriculture. He has been working since 2022 to establish a teaching and research program in precision agriculture. On August 15, 2024, he will assume the role of the Elizabeth & Whitney MacMillan Endowed Chair of Precision Agriculture at MSU. He earned his Ph.D. in Engineering from MSU in 2016, specializing in optical remote sensing and data analysis. He co-founded NWB Sensors Inc. in 2009, a Montana technology business that develops environmental sensing systems. Here, he has received support from small business innovation grants, including the USDA Small Business Innovative Research program. With a background rooted in his family's farm in Fairfield, Montana, Dr. Nugent's research at MSU integrates on-farm and remote sensing with big data and machine learning to address agricultural challenges such as soil acidification, water use efficiency, and crop quality.
+
+***
 
 ### Jenni West - Montana Manufacturing Extension Center
 
@@ -35,8 +38,10 @@ Jenni has over 29 years of experience in both the public sector and private indu
 
 Jenni is a member of the MEP National Network working group on cybersecurity and of the Montana District Export Council.
 
-### Paul Nugent
+### Jason Yager - Montana Photonics and Quantum Alliance
 
-![Paul Nugent](../images/nugent.jpg)
+***
 
-Dr. Paul Winston Nugent is a Research Professor at the Montana State University (MSU) College of Agriculture. He has been working since 2022 to establish a teaching and research program in precision agriculture. On August 15, 2024, he will assume the role of the Elizabeth & Whitney MacMillan Endowed Chair of Precision Agriculture at MSU. He earned his Ph.D. in Engineering from MSU in 2016, specializing in optical remote sensing and data analysis. He co-founded NWB Sensors Inc. in 2009, a Montana technology business that develops environmental sensing systems. Here, he has received support from small business innovation grants, including the USDA Small Business Innovative Research program. With a background rooted in his family's farm in Fairfield, Montana, Dr. Nugent's research at MSU integrates on-farm and remote sensing with big data and machine learning to address agricultural challenges such as soil acidification, water use efficiency, and crop quality.
+![Jason Yager](../images/yager.jpeg)
+
+Jason Yager is an experienced leader with a background in industry, academia, and nonprofits. He earned a Master's degree in Physics from Montana State University. Currently, he serves as the executive director of the Montana Photonics & Quantum Alliance, which is dedicated to advancing the Photonics and Quantum Ecosystem in Montana. With 30 years of experience in Montana's photonics community, Jason is actively involved in several boards, including the Montana Headwaters Tech Hub steering committee.
