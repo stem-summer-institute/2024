@@ -41,7 +41,7 @@ Wednesday, August 7, 2024
     <td class="tg-c3ow">David McDonald</td>
   </tr>
     <tr>
-    <td class="tg-c3ow">Rm. 329</td>
+    <td class="tg-c3ow">Rm. 321</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b7p4/">Creative Coding with PBS KIDS:Scratch Jr.</a><br>Gr. K-2</td>
     <td class="tg-c3ow">Nikki Vradenburg</td>
   </tr>

@@ -41,14 +41,14 @@ Wednesday, August 7, 2024
     <td class="tg-c3ow">David McDonald</td>
   </tr>
     <tr>
+    <td class="tg-c3ow">Rm. 321</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p1/">Student-guided Lesson Feedback</a><br>Gr. K-12</td>
+    <td class="tg-c3ow">Elaine Westbrook</td>
+  </tr>
+    <tr>
     <td class="tg-c3ow">Rm. 325</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p4/">Mathematics Modeling for Sustainability</a><br>Gr. K-8</td>
     <td class="tg-c3ow">Fenqjen Luo</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Rm. 329</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b8p1/">Student-guided Lesson Feedback</a><br>Gr. K-12</td>
-    <td class="tg-c3ow">Elaine Westbrook</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 337</td>

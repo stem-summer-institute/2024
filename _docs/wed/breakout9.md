@@ -41,14 +41,14 @@ Wednesday, August 7, 2024
     <td class="tg-c3ow">Joy-Lyn McDonald</td>
   </tr>
   <tr>
+    <td class="tg-c3ow">Rm. 321</td>
+    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b9p1/">Decoding Student Success</a><br>Gr. K-12</td>
+    <td class="tg-c3ow">Amy Guevara</td>
+  </tr>
+  <tr>
     <td class="tg-c3ow">Rm. 325</td>
     <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b9p5/">Half-Earth Map Design Challenge</a><br>Gr. 3-12</td>
     <td class="tg-c3ow">Linda Rost</td>
-  </tr>
-      <tr>
-    <td class="tg-c3ow">Rm. 329</td>
-    <td class="tg-0pky"><a href="https://stem-summer-institute.github.io/2024/docs/b9p1/">Decoding Student Success</a><br>Gr. K-12</td>
-    <td class="tg-c3ow">Amy Guevara</td>
   </tr>
 </tbody>
 </table>
